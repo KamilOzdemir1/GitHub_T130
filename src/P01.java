@@ -3,6 +3,6 @@ public class P01 {
 
         int a = 120;
         int b = 68;
-        System.out.println("iki sayinin toplami : " + (a+b));
+        System.out.println("İki sayinin toplami : " + (a+b));
     }
 }
